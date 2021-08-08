@@ -1,0 +1,19 @@
+{
+    "name": "acer/aayush-practice",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "aayushali",
+            "email": "aayushkhan51@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
